@@ -14,7 +14,7 @@ A responsive React.js application built as a frontend assessment, featuring a Jo
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/job-board.git
+git clone https://github.com/BHUVAN-M-E/Talenthub.git
 cd job-board
 
 # Install dependencies
